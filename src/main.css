@@ -1,0 +1,30 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+table {
+    color: #fff;
+
+}
+table td {
+    color: #fff;
+}
+
+.color-celda {
+    color: #fff
+}
+
+.color-celda:hover {
+    background-color: rgb(102, 102, 102);
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.title-table {
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 1.5;
+}
